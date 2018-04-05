@@ -1,4 +1,4 @@
-## CS 201 Java Console Game Project
+# CS 201 Java Console Game Project
 
 - **Name**: Daiming Yang
 - **Email**: daimingy@usc.edu
